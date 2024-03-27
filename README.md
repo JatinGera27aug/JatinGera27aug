@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatingera27aug&label=Profile%20views&color=0e75b6&style=flat" alt="jatingera27aug" /> </p>
 
-- 🔭 I’m currently working on **SongsDownloader**
+- 🔭 I’m currently working on **BloodLink**, **SongsDownloader Multi-Threading download function**
 
-- 🌱 I’m currently learning **Django, JS, Devops...**
+- 🌱 I’m currently learning **NODE.JS, Django with react, JS, Devops...**
 
 - 💪 Well experienced with **GUI development, web scrapping**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JatinGera27aug](https://github.com/JatinGera27aug)
 
-- 💬 Ask me about **python, flask, css3, GUI**
+- 💬 Ask me about **python, flask, django, node.js, expressJs, css3, GUI**
 
 - 📫 How to reach me **jatingera@gmail.com**
 
