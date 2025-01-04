@@ -62,3 +62,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatingera27aug&show_icons=true&locale=en" alt="jatingera27aug" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatingera27aug&" alt="jatingera27aug" /></p>
+
+<a href="https://github.com/JatinGera27aug">
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JatinGera27aug&theme=algolia"/>
+</a>
+  <br>
+
+  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=JatinGera27aug&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
+
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://stats.quine.sh/JatinGera27aug/dependencies?theme=dark" width="450">
+  <img src="https://stats.quine.sh/JatinGera27aug/languages-over-time?theme=dark" width="470">
+</div>
+
