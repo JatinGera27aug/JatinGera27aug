@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **python, django, node.js, expressJs, docker, k8s, css3, GUI**
 
-- 📫 How to reach me **jatingera@gmail.com**
+- 📫 How to reach me **jatingera2004@gmail.com**
 
 - ⚡ Fun fact : **I don't like COFFEE**
 
